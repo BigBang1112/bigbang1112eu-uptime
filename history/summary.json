@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1712,
-    "timeDay": 1712,
-    "timeWeek": 1712,
-    "timeMonth": 1712,
-    "timeYear": 1712,
+    "time": 1497,
+    "timeDay": 1497,
+    "timeWeek": 1497,
+    "timeMonth": 1497,
+    "timeYear": 1497,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 597,
-    "timeDay": 597,
-    "timeWeek": 597,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "time": 757,
+    "timeDay": 757,
+    "timeWeek": 757,
+    "timeMonth": 757,
+    "timeYear": 757,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oldprojects.bigbang1112.eu.ico",
     "slug": "oldprojects-bigbang1112-eu",
     "status": "down",
-    "uptime": "10.18%",
-    "uptimeDay": "10.18%",
-    "uptimeWeek": "10.18%",
-    "uptimeMonth": "10.18%",
-    "uptimeYear": "10.18%",
-    "time": 774,
-    "timeDay": 774,
-    "timeWeek": 774,
-    "timeMonth": 774,
-    "timeYear": 774,
+    "uptime": "0.69%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "0.69%",
+    "uptimeMonth": "0.69%",
+    "uptimeYear": "0.69%",
+    "time": 680,
+    "timeDay": 680,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {
-      "2025-06-24": 0
+      "2025-06-24": 2
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.bigbang1112.eu.ico",
     "slug": "media-bigbang1112-eu",
     "status": "down",
-    "uptime": "5.00%",
-    "uptimeDay": "5.00%",
-    "uptimeWeek": "5.00%",
-    "uptimeMonth": "5.00%",
-    "uptimeYear": "5.00%",
+    "uptime": "0.76%",
+    "uptimeDay": "0.76%",
+    "uptimeWeek": "0.76%",
+    "uptimeMonth": "0.76%",
+    "uptimeYear": "0.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-24": 0
+      "2025-06-24": 2
     }
   }
 ]
