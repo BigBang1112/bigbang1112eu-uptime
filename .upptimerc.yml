@@ -9,9 +9,9 @@ sites:
   - name: challenge.bigbang1112.eu
     url: https://challenge.bigbang1112.eu
   - name: oldprojects.bigbang1112.eu
-    url: https://oldprojects.bigbang1112.eu
+    url: https://oldprojects.bigbang1112.eu/nadeoenvimix/NadeoEnvimixAd.jpg
   - name: media.bigbang1112.eu
-    url: https://media.bigbang1112.eu
+    url: https://media.bigbang1112.eu/whitelist.json
     
 assignees: # Users to assign downtime issues (optional)
   - BigBang1112
