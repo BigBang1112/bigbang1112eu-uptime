@@ -1,7 +1,7 @@
-url: https://media.bigbang1112.eu/whitelist.json
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-26T08:45:49.680Z
+url: http://media.bigbang1112.eu/whitelist.json
+status: up
+code: 200
+responseTime: 905
+lastUpdated: 2025-06-26T08:56:06.216Z
 startTime: 2025-06-24T16:06:14.762Z
 generator: Upptime <https://github.com/upptime/upptime>
