@@ -4,9 +4,9 @@
     "url": "https://bigbang1112.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.eu.ico",
     "slug": "bigbang1112-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1536,
     "timeMonth": 1384,
     "timeYear": 1384,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-07": 0
+    }
   },
   {
     "name": "challenge.bigbang1112.eu",
     "url": "https://challenge.bigbang1112.eu",
     "icon": "https://icons.duckduckgo.com/ip3/challenge.bigbang1112.eu.ico",
     "slug": "challenge-bigbang1112-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +35,28 @@
     "timeWeek": 1049,
     "timeMonth": 926,
     "timeYear": 926,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-07": 0
+    }
   },
   {
     "name": "oldprojects.bigbang1112.eu",
     "url": "https://oldprojects.bigbang1112.eu/nadeoenvimix/NadeoEnvimixAd.jpg",
     "icon": "https://icons.duckduckgo.com/ip3/oldprojects.bigbang1112.eu.ico",
     "slug": "oldprojects-bigbang1112-eu",
-    "status": "up",
-    "uptime": "86.31%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "87.03%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.31%",
-    "uptimeYear": "86.31%",
+    "uptimeMonth": "87.03%",
+    "uptimeYear": "87.03%",
     "time": 975,
     "timeDay": 887,
     "timeWeek": 1047,
     "timeMonth": 975,
     "timeYear": 975,
     "dailyMinutesDown": {
+      "2025-07-07": 0,
       "2025-06-26": 526,
       "2025-06-25": 1440,
       "2025-06-24": 474
@@ -62,18 +67,19 @@
     "url": "http://media.bigbang1112.eu/whitelist.json",
     "icon": "https://icons.duckduckgo.com/ip3/media.bigbang1112.eu.ico",
     "slug": "media-bigbang1112-eu",
-    "status": "up",
-    "uptime": "86.25%",
+    "status": "down",
+    "uptime": "86.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.25%",
-    "uptimeYear": "86.25%",
+    "uptimeMonth": "86.98%",
+    "uptimeYear": "86.98%",
     "time": 597,
     "timeDay": 593,
     "timeWeek": 604,
     "timeMonth": 597,
     "timeYear": 597,
     "dailyMinutesDown": {
+      "2025-07-07": 0,
       "2025-06-26": 536,
       "2025-06-25": 1440,
       "2025-06-24": 474
