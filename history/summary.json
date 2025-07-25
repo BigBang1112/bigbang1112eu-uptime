@@ -4,19 +4,19 @@
     "url": "https://bigbang1112.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.eu.ico",
     "slug": "bigbang1112-eu-cz",
-    "status": "down",
-    "uptime": "7.46%",
-    "uptimeDay": "7.46%",
-    "uptimeWeek": "7.46%",
-    "uptimeMonth": "7.46%",
-    "uptimeYear": "7.46%",
-    "time": 699,
-    "timeDay": 699,
-    "timeWeek": 699,
-    "timeMonth": 699,
-    "timeYear": 699,
+    "status": "up",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
+    "time": 1133,
+    "timeDay": 1133,
+    "timeWeek": 1133,
+    "timeMonth": 1133,
+    "timeYear": 1133,
     "dailyMinutesDown": {
-      "2025-07-25": 0
+      "2025-07-25": 13
     }
   },
   {
@@ -51,7 +51,7 @@
     "time": 908,
     "timeDay": 1009,
     "timeWeek": 853,
-    "timeMonth": 917,
+    "timeMonth": 924,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2025-07-25": 40,
