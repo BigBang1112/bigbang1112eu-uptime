@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.eu.ico",
     "slug": "bigbang1112-eu-cz",
     "status": "up",
-    "uptime": "0.52%",
-    "uptimeDay": "0.52%",
-    "uptimeWeek": "0.52%",
-    "uptimeMonth": "0.52%",
-    "uptimeYear": "0.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1133,
     "timeDay": 1133,
     "timeWeek": 1133,
     "timeMonth": 1133,
     "timeYear": 1133,
-    "dailyMinutesDown": {
-      "2025-07-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "bigbang1112.eu (NC redirect)",
