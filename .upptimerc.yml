@@ -5,7 +5,10 @@ repo: bigbang1112eu-uptime # The name of this repository
 sites:
   - name: bigbang1112.eu (redirect to cz)
     url: https://bigbang1112.eu
-    slug: bigbang1112-eu
+    slug: bigbang1112-eu-cz
+  - name: bigbang1112.eu (NC redirect)
+    url: https://bigbang1112.eu/nc
+    slug: bigbang1112-eu-nc
   - name: challenge.bigbang1112.eu
     url: https://challenge.bigbang1112.eu
     
