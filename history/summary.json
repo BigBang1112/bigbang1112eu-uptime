@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.eu.ico",
     "slug": "bigbang1112-eu-cz",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 1201,
     "timeDay": 1172,
     "timeWeek": 1185,
@@ -24,18 +24,20 @@
     "url": "https://bigbang1112.eu/nc",
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.eu.ico",
     "slug": "bigbang1112-eu-nc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 245,
+    "timeDay": 235,
     "timeWeek": 224,
     "timeMonth": 232,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-08": 0
+    }
   },
   {
     "name": "challenge.bigbang1112.eu",
