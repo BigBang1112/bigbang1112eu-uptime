@@ -4,10 +4,10 @@
     "url": "https://bigbang1112.eu",
     "icon": "https://icons.duckduckgo.com/ip3/bigbang1112.eu.ico",
     "slug": "bigbang1112-eu-cz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1488,
@@ -16,6 +16,7 @@
     "timeMonth": 1560,
     "timeYear": 1488,
     "dailyMinutesDown": {
+      "2026-01-07": 1,
       "2025-10-09": 29,
       "2025-07-25": 43
     }
@@ -27,8 +28,8 @@
     "slug": "bigbang1112-eu-nc",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 239,
@@ -37,6 +38,7 @@
     "timeMonth": 241,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2026-01-07": 1,
       "2025-10-09": 28,
       "2025-08-08": 37
     }
@@ -46,9 +48,9 @@
     "url": "https://challenge.bigbang1112.eu",
     "icon": "https://icons.duckduckgo.com/ip3/challenge.bigbang1112.eu.ico",
     "slug": "challenge-bigbang1112-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -58,6 +60,7 @@
     "timeMonth": 1288,
     "timeYear": 1125,
     "dailyMinutesDown": {
+      "2026-01-07": 0,
       "2025-07-25": 40,
       "2025-07-24": 51,
       "2025-07-10": 25
